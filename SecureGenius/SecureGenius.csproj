@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId></PackageId>
+    <Company>Cubemak Labs</Company>
+    <Description>A simple, lightweight NuGet package that generates secure random passwords. The package provides a single method that can be called from your code to generate a random password of a specified length, using a mix of letters, numbers, and special characters. The package is compatible with both .NET Standard and .NET Framework, and can be easily integrated into your existing applications.</Description>
+    <Copyright>Somanathan Gohulan</Copyright>
+  </PropertyGroup>
+
+</Project>
